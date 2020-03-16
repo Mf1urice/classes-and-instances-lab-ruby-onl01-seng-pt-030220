@@ -1,2 +1,4 @@
-class Dog 
+class dog 
 end 
+
+fido = dog.
